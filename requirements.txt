@@ -10,6 +10,6 @@ streamlit
 openai
 python-dotenv
 python-docx
-sentence-transformers>=2.2.2
+sentence-transformers
 torch
 PyPDF2
