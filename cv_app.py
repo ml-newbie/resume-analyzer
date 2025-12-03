@@ -27,7 +27,7 @@ st.markdown(
     """
     <div style="background-color:#f0f2f6;padding:20px;border-radius:5px">
         <h1 style="color:#0f1c4d;text-align:center;">📄 AI Resume Analyzer</h1>
-        <p style="text-align:center;color:#555;">Upload your resume and paste a job description to see the match score</p>
+        <p style="text-align:center;font-size:12px;color:#555;">Upload your resume and paste a job description to see the match score</p>
         <p style="font-size:10px; color:gray; text-align:center;">© 2025 John Merwin. All rights reserved.</p>
     </div>
     """,
