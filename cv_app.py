@@ -131,8 +131,9 @@ if st.button("🚀 Evaluate Resume"):
 # -------------------------------
 # Footer
 # -------------------------------
-st.markdown("---")
-st.markdown(
-    '<p style="font-size:10px; color:gray; text-align:center;">© 2025 John Merwin. All rights reserved.</p>',
-    unsafe_allow_html=True
-)
+
+# st.markdown("---")
+# st.markdown(
+#     '<p style="font-size:10px; color:gray; text-align:center;">© 2025 John Merwin. All rights reserved.</p>',
+#     unsafe_allow_html=True
+# )
